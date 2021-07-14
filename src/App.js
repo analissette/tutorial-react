@@ -31,7 +31,7 @@ import Form from './Form';
                 <Tabla datosPersonas={personas}eliminarPersona={this.eliminarPersona}/>
                 <Form enviarFormulario={this.enviarFormulario} />
             </div>
-        )
+        );
 
     }
 
