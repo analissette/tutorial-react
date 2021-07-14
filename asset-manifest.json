@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/https,://analissette.github.io/tutorial-react/static/css/main.253fa954.chunk.css",
+    "main.js": "/https,://analissette.github.io/tutorial-react/static/js/main.cf730189.chunk.js",
+    "main.js.map": "/https,://analissette.github.io/tutorial-react/static/js/main.cf730189.chunk.js.map",
+    "runtime-main.js": "/https,://analissette.github.io/tutorial-react/static/js/runtime-main.8648ea73.js",
+    "runtime-main.js.map": "/https,://analissette.github.io/tutorial-react/static/js/runtime-main.8648ea73.js.map",
+    "static/js/2.34614854.chunk.js": "/https,://analissette.github.io/tutorial-react/static/js/2.34614854.chunk.js",
+    "static/js/2.34614854.chunk.js.map": "/https,://analissette.github.io/tutorial-react/static/js/2.34614854.chunk.js.map",
+    "index.html": "/https,://analissette.github.io/tutorial-react/index.html",
+    "static/css/main.253fa954.chunk.css.map": "/https,://analissette.github.io/tutorial-react/static/css/main.253fa954.chunk.css.map",
+    "static/js/2.34614854.chunk.js.LICENSE.txt": "/https,://analissette.github.io/tutorial-react/static/js/2.34614854.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8648ea73.js",
+    "static/js/2.34614854.chunk.js",
+    "static/css/main.253fa954.chunk.css",
+    "static/js/main.cf730189.chunk.js"
+  ]
+}
