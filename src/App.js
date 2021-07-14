@@ -24,7 +24,7 @@ import Form from './Form';
     render(){
         const { personas } = this.state;
         return (
-            <div className={"container"}>
+            <div className="App">
                 <h1>Tutorial de React de Neoguias</h1>
                 <Tabla datosPersonas={personas} eliminarPersona={this.eliminarPersona}/>
                 <Form enviarFormulario={this.enviarFormulario} />
