@@ -5,9 +5,7 @@ import Form from './Form';
 
   class App extends Component {
     state = {
-        personas: [
-
-        ],
+        personas: [],
     }
     eliminarPersona = (indice) => {
         const { personas } = this.state
@@ -27,8 +25,8 @@ import Form from './Form';
         const { personas } = this.state;
         return (
             <div className={"container"}>
-                <h1>sobreviviendo</h1>
-                <Tabla datosPersonas={personas}eliminarPersona={this.eliminarPersona}/>
+                <h1>Tutorial de React de Neoguias</h1>
+                <Tabla datosPersonas={personas} eliminarPersona={this.eliminarPersona}/>
                 <Form enviarFormulario={this.enviarFormulario} />
             </div>
         );
